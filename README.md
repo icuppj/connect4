@@ -73,4 +73,4 @@ docker compose down
 
 ## AI Usage
 
-AI tools were used to assist with scaffolding, debugging Maven/Docker configuration, and drafting boilerplate. Full conversation/agent transcripts are included in the `transcripts/` folder.
+AI tools were used to assist with scaffolding, debugging Maven/Docker configuration, and drafting boilerplate. Full conversation/agent transcripts are included in this link https://share.gemini.google/TbWaALdRrzNB.
