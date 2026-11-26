@@ -1,4 +1,4 @@
-# Connect 4 — Full-Stack Take-Home Assignment
+# Connect 4 — Full Stack Assignment
 
 A self-contained Connect 4 web application built with **Java**, **React**, **MySQL**, and **Docker**.
 
